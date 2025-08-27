@@ -15,7 +15,7 @@ const ProfileCard = () => {
                 <span className='font-semibold'>Age</span> 20 years old
             </p>
         </div>
-        <button className='w-full bg-blue-500 text-white py-2 px-4 rounded rounded hover:bg-blue-600 transition-colors'>Edit Profile</button>
+        <button className='w-full bg-blue-500 text-white py-2 px-4 rounded  hover:bg-blue-600 transition-colors'>Edit Profile</button>
     </div>
   )
 }
